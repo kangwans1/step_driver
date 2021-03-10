@@ -2,7 +2,8 @@
 # step_driver
 - can use with DRV8825,A4988 
 ![Untitled](https://user-images.githubusercontent.com/22659037/110693039-97f2d800-8219-11eb-8dea-9c09a60b1174.png)
-![Schematic_STM32F103 step driver_2021-03-11](https://user-images.githubusercontent.com/22659037/110694390-18660880-821b-11eb-86d9-27ff053ea6e1.png)
+![Schematic_STM32F103 step driver_2021-03-11 (1)](https://user-images.githubusercontent.com/22659037/110694530-4f3c1e80-821b-11eb-9644-53c71a445cfa.png)
+
 # AXIS X ( motor 0 )
 -   PA0 PULSE pin
 -   PA1 DIR pin
