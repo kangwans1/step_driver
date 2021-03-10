@@ -1,5 +1,4 @@
 # step_driver
-this version can't setting pulse frequency default frequency is 10 kHZ
 - stm32f103 ( blue pill )
 -   axis x ( motor 0 )
 -     PA0 PULSE pin
@@ -12,3 +11,6 @@ this version can't setting pulse frequency default frequency is 10 kHZ
 -     PB14 LIMIT2 ( active low )
 -     PB15 LIMIT3 ( active low )
 # COMMAND
+
+
+(This version can't setting pulse frequency default frequency is 10 kHZ)
