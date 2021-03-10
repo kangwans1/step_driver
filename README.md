@@ -3,15 +3,15 @@
 - stm32f103 ( blue pill )
 ![stm32](https://user-images.githubusercontent.com/22659037/110656134-3f5c1480-81f2-11eb-936f-16f0f31df7e9.png)
 -   axis x ( motor 0 )
--     PA0 PULSE pin
--     PA1 DIR pin
--     PB12 LIMIT0 ( active low )
--     PB13 LIMIT1 ( active low )
+-   PA0 PULSE pin
+-   PA1 DIR pin
+-   PB12 LIMIT0 ( active low )
+-   PB13 LIMIT1 ( active low )
 -   axis y (motor 1)
--     PA6 PULSE pin
--     PA5 DIR pin
--     PB14 LIMIT2 ( active low )
--     PB15 LIMIT3 ( active low )
+-   A6 PULSE pin
+-   PA5 DIR pin
+-   PB14 LIMIT2 ( active low )
+-   PB15 LIMIT3 ( active low )
 -   PA9 tx pin
 -   PA10 rx pin
 # COMMAND
