@@ -1,4 +1,5 @@
 # step_driver
+this version can't setting pulse frequency default frequency is 10 kHZ
 - stm32f103 ( blue pill )
 -   axis x ( motor 0 )
 -     PA0 PULSE pin
