@@ -1,7 +1,7 @@
 
 # step_driver
 - can use with DRV8825,A4988 
-![stm32](https://user-images.githubusercontent.com/22659037/110656134-3f5c1480-81f2-11eb-936f-16f0f31df7e9.png)
+![Untitled](https://user-images.githubusercontent.com/22659037/110693039-97f2d800-8219-11eb-8dea-9c09a60b1174.png)
 # AXIS X ( motor 0 )
 -   PA0 PULSE pin
 -   PA1 DIR pin
