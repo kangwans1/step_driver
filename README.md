@@ -1,5 +1,7 @@
+
 # step_driver
 - stm32f103 ( blue pill )
+![stm32](https://user-images.githubusercontent.com/22659037/110656134-3f5c1480-81f2-11eb-936f-16f0f31df7e9.png)
 -   axis x ( motor 0 )
 -     PA0 PULSE pin
 -     PA1 DIR pin
