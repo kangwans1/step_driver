@@ -1,6 +1,6 @@
 
 # step_driver
-- stm32f103 ( blue pill )
+- can use with DRV8825,A4988 
 ![stm32](https://user-images.githubusercontent.com/22659037/110656134-3f5c1480-81f2-11eb-936f-16f0f31df7e9.png)
 # AXIS X ( motor 0 )
 -   PA0 PULSE pin
