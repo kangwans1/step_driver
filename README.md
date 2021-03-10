@@ -11,3 +11,4 @@ this version can't setting pulse frequency default frequency is 10 kHZ
 -     PA5 DIR pin
 -     PB14 LIMIT2 ( active low )
 -     PB15 LIMIT3 ( active low )
+# COMMAND
