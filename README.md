@@ -11,6 +11,7 @@
 -     PB14 LIMIT2 ( active low )
 -     PB15 LIMIT3 ( active low )
 # COMMAND
+![image](https://user-images.githubusercontent.com/22659037/110587220-f41c1480-81a5-11eb-8c98-f4f4ca5418a6.png)
 
 
 (This version can't setting pulse frequency default frequency is 10 kHZ)
