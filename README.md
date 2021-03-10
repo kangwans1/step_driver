@@ -11,6 +11,7 @@
 -     PB14 LIMIT2 ( active low )
 -     PB15 LIMIT3 ( active low )
 # COMMAND
+![Untitled](https://user-images.githubusercontent.com/22659037/110590740-c4bbd680-81aa-11eb-952e-f4dc5b0a9269.png)
 
 
 
