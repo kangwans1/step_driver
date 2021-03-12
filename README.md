@@ -25,5 +25,6 @@
 
 # USE ST-Link to Upload
 ![stlink](https://user-images.githubusercontent.com/22659037/110663800-5f430680-81f9-11eb-8502-b24e722c7dc3.png)
-
+# My testing video
+https://www.youtube.com/watch?v=UXxgs-XSBnM
 (This version can't setting pulse frequency default frequency is 10 kHZ)
